@@ -1,8 +1,8 @@
 // API配置文件
 export const API_CONFIG = {
-  WEATHER_KEY: 'e8299896ab69420cb482da774dc77c0c', // 请替换为实际的API Key
-  WEATHER_BASE_URL: 'https://n32mtftj89.re.qweatherapi.com/v7',
-  GEO_BASE_URL: 'https://n32mtftj89.re.qweatherapi.com/geo/v2'  // 👈 添加地理编码 API
+  WEATHER_KEY: '你的API', // 请替换为实际的API Key
+  WEATHER_BASE_URL: '你的API host/v7',
+  GEO_BASE_URL: '你的API host/geo/v2'  // 👈 添加地理编码 API
 }
 
 // 封装uni.request
